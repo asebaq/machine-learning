@@ -8,11 +8,11 @@ In this repo I'm attemptting to implement some of the basic yet famous machine l
   - [x] Logistic Regression
   - [x] Support Vector Machine
   - [x] KNN
-  - [] Decision Trees
-  - [] Neural Networks
+  - [ ] Decision Trees
+  - [ ] Neural Networks
 
 2. Unsupervised Learning
-  - [] PCA
-  - []K-Means
-  - [] DBSCAN
+  - [ ] PCA
+  - [ ] K-Means
+  - [ ] DBSCAN
 
