@@ -4,15 +4,15 @@ In this repo I'm attemptting to implement some of the basic yet famous machine l
 
 ## Features
 1. Supervised Learning
-  -[x] Linear Regression
-  -[x] Logistic Regression
-  -[x] Support Vector Machine
-  -[x] KNN
-  -[] Decision Trees
-  -[] Neural Networks
+  - [x] Linear Regression
+  - [x] Logistic Regression
+  - [x] Support Vector Machine
+  - [x] KNN
+  - [] Decision Trees
+  - [] Neural Networks
 
 2. Unsupervised Learning
-  -[] PCA
-  -[]K-Means
-  -[] DBSCAN
+  - [] PCA
+  - []K-Means
+  - [] DBSCAN
 
